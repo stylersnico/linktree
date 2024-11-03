@@ -16,4 +16,3 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 ---
 
 Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
-Edited by Nicolas Simond to remove all bloat from external source and load everything from the same domain.
