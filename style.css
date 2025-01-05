@@ -10,7 +10,7 @@ body {
     margin: 0;
     height: 100vh;
     font-weight: 100;
-    background: radial-gradient(#66ccff,#1f1013);
+    background: radial-gradient(#0e849c,#1f1013);
     -webkit-overflow-Y: hidden;
     -moz-overflow-Y: hidden;
     -o-overflow-Y: hidden;
@@ -26,10 +26,10 @@ body {
     width: 96px;
     height: 96px;
     display: block;
+	z-index: 20;
     margin: 40px auto 20px;
     border-radius: 50%;
     -webkit-tap-highlight-color: transparent;
-    z-index: 20;
 }
 
 #userName {
@@ -58,6 +58,7 @@ body {
     border: solid var(--accentColor) 2px;
     border-radius: 10px;
     font-size: 1rem;
+	font-weight: 500;
     text-align: center;
     display: block;
     margin-left: 10px;
