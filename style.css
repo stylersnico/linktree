@@ -29,6 +29,7 @@ body {
     margin: 40px auto 20px;
     border-radius: 50%;
     -webkit-tap-highlight-color: transparent;
+    z-index: 20;
 }
 
 #userName {
