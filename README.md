@@ -15,4 +15,5 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
+Original by John Emerson [Get in touch](https://johnggli.github.io/linktree)
+Updated by me for my own use
